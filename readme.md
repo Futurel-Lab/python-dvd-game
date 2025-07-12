@@ -1,7 +1,7 @@
 # DVD Corner
 Bouncing DVD Logo written in python3 and pygame.
 
-## Requirments
+## Requirements
 - pygame
   
 ## Screenshot
